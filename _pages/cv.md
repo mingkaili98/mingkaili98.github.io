@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in University of New South Wales, 2024-2025
+* B.S. in Ho Hai University, 2016-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*  2021-2023: Software System Development Engineer
+  * Huahang High Tech Technology Co., Ltd
+  * Duties includes: Development, coordination and testing of the company's entire software, and realizing the functions of microservice software, server software and load control post software;Software development of unmanned aircraft systems;Developed technical reconnaissance microservice software, sentinel software and server software by using
+typical technical investigation software development methods (multi-thread, memory pool, two-dimensional ring
+linked list);Completed the development and localization of technical detection software; Completed the field experiment verification, carried out the joint adjustment and acceptance of all stages of supporting projects; Developed GIS map function and SAR function.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2021: Software Development Engineer
+  * Bosscom Technology Co., Ltd
+  * Duties included: Responsible for a project about intelligent medical navigation system; Completed the software interface development, realized software functions and compiled software documentation; Solved software issues, such as screen adaptation, function switching and other logical judgment
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill 1 programming ability：C++; Python; Java
+* Skill 2 language skill level
+  * Sub-skill 2.1 English 
+  * Sub-skill 2.2 Chinese
+  * Sub-skill 2.3 Japanese
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Lead the team to develop software systems
