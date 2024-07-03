@@ -26,18 +26,18 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "I am a student at the University of New South Wales. I am interested in computer technology, fitness and skiing."
   location         : "China"
-  employer         : " "
+  employer         : "University of New South Wales "
   uri              : # URL
   email            : "z5548651@ad.unsw.edu.au" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+ # arxiv            : # URL - Update with the correct link to your profile
+#  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+ # impactstory      : # URL
+ # orcid            : "http://orcid.org/yourorcidurl"
+#  semantic         : # URL
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
