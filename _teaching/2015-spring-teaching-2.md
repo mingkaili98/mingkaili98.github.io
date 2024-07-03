@@ -16,4 +16,4 @@ College of Engineering
 
 Major
 ======
-College of Engineering
+artificial intelligence
